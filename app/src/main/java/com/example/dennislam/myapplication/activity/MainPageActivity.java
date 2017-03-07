@@ -11,7 +11,7 @@ import android.view.View;
 import com.example.dennislam.myapplication.R;
 
 public class MainPageActivity extends BaseActivity {
-//NONONONON
+//NONONONONHI
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
